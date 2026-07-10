@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "my-react-app-50399",
+    "my-react-app": "my-react-app-50399"
+  },
+  "targets": {},
+  "etags": {}
+}
